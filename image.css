@@ -1,0 +1,8 @@
+.image{
+    width: 100vh;
+    height: auto;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 10px rgba(3, 233, 3, 0.74);
+}

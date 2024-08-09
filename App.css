@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 20px;
+
+}
+
+.productCard {
+  background-color: #ccc;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  margin: 0, auto;
+  color: white;
+}
+
+
+.hello{
+  color: red;
+  margin-top: 20px;
+  text-align: center;
+}
+.productImage{
+  width: 50vb;
+  height: 25vh;
+  margin-top: 10px;
+}
